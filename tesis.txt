@@ -1,4 +1,8 @@
 Hola, esta es mi tesis.
 
+Autores: Leonardo Rodrigues y Wisam Mosalbat
+         
+
 Es una aplicacion para la administracion de empresas
 que se dedican al comerciode material medico.
+
