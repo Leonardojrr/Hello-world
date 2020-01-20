@@ -1,0 +1,4 @@
+Hola, esta es mi tesis.
+
+Es una aplicacion para la administracion de empresas que se dedican al comercio
+de material medico.
